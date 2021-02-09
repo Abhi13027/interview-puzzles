@@ -1,5 +1,7 @@
 # Interview Puzzles
 
+This is a curated list of the frequently asked Interview Puzzles. The source of the puzzles are the various websites on Internet.
+
 ## Table of Contents
 
 | Sl.No | Title                  | Question                                               | Answer                                                 |
