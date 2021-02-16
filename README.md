@@ -8,4 +8,4 @@ This is a curated list of the frequently asked Interview Puzzles. The source of 
 | ----- | ---------------------- | ------------------------------------------------------ | ------------------------------------------------------ |
 | 1.    | 45 minutes using ropes | [question](puzzles/45-minutes-using-ropes/question.md) | [solution](puzzles/45-minutes-using-ropes/solution.md) |
 | 2.    | Pond with Flowers      | [question](puzzles/pond-with-flowers/question.md)      | [solution](puzzles/pond-with-flowers/solution.md)      |
-| 3.    | 25 Horses              | [question](puzzles/pond-with-flowers/question.md)      | [solution](puzzles/pond-with-flowers/solution.md)      |
+| 3.    | 25 Horses              | [question](puzzles/25-horses/question.md)              | [solution](puzzles/25-horses/solution.md)              |
